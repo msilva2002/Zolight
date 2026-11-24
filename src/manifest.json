@@ -3,7 +3,7 @@
   "name": "Zolight",
   "version": "1.0.1",
   "description": "Highlight words and wildcard patterns (e.g. neuro*, ?omics) in the abstract of the selected item, with a color per word.",
-  "author": "YOUR NAME",
+  "author": "Miguel Silva",
   "homepage_url": "https://github.com/msilva2002/Zolight",
   "icons": {
     "48": "content/icons/icon.svg",
