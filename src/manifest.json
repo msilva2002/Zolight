@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Zolight",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Highlight words and wildcard patterns (e.g. neuro*, ?omics) in the abstract of the selected item, with a color per word.",
   "author": "Miguel Silva",
   "homepage_url": "https://github.com/msilva2002/Zolight",
