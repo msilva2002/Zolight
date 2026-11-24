@@ -22,7 +22,7 @@ if args.repo and "YOUR_USERNAME" in json.dumps(manifest) + "YOUR NAME" * ("YOUR 
     sys.exit("Replace the YOUR_USERNAME / YOUR NAME placeholders in src/manifest.json before releasing.")
 
 os.makedirs(DIST, exist_ok=True)
-xpi_name = f"abstract-highlighter-{version}.xpi"
+xpi_name = f"zolight-{version}.xpi"
 xpi_path = os.path.join(DIST, xpi_name)
 
 # Deterministic zip: sorted entries, fixed timestamps, manifest.json at the zip root
