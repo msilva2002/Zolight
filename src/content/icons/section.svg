@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="context-fill" fill-opacity="context-fill-opacity">
+  <!-- highlighted block with a Z cut out of it -->
+  <path fill-rule="evenodd" d="M2.5 2H8.5A1.5 1.5 0 0 1 10 3.5V12.5A1.5 1.5 0 0 1 8.5 14H2.5A1.5 1.5 0 0 1 1 12.5V3.5A1.5 1.5 0 0 1 2.5 2Z M2.8 4H7.8V5.5L4.9 9.2H7.8V11H2.8V9.5L5.7 5.8H2.8Z"/>
+  <!-- marker -->
+  <g transform="translate(10 12.2) rotate(30)">
+    <rect x="-1.4" y="-8" width="2.8" height="7" rx="0.8"/>
+    <path d="M-1.4 -0.7 H1.4 L0.7 1.2 H-0.7 Z"/>
+  </g>
+</svg>

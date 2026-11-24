@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Zolight",
+  "version": "1.0.0",
+  "description": "Highlight words and wildcard patterns (e.g. neuro*, ?omics) in the abstract of the selected item, with a color per word.",
+  "author": "YOUR NAME",
+  "homepage_url": "https://github.com/msilva2002/Zolight",
+  "icons": {
+    "48": "content/icons/icon.svg",
+    "96": "content/icons/icon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "zolight@msilva2002.github.io",
+      "update_url": "https://github.com/msilva2002/zolight/releases/download/release/update.json",
+      "strict_min_version": "8.999",
+      "strict_max_version": "10.0.*"
+    }
+  }
+}
